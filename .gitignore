@@ -1,0 +1,5 @@
+# build inputs and scripts stay local; only the published page is in the repo
+_build/
+*.csv
+*.xlsx
+.DS_Store
